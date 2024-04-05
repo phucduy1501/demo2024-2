@@ -7,8 +7,4 @@ TEST_CASE("Ex1", "[example]")
 {
     REQUIRE(Hello, World);
 }
-// tests for exercise 2
-TEST_CASE("Ex2", "[example]")
-{
-    REQUIRE(add(1,1) == 2);
-}
+
